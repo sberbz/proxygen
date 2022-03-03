@@ -34,7 +34,7 @@ class HPACKEncodeBuffer {
   }
 
   void clear() {
-    bufQueuePtr_->clear();
+    //bufQueuePtr_->clear();
   }
 
   /**
